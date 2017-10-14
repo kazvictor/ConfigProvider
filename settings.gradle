@@ -1,3 +1,4 @@
 rootProject.name = 'ConfigProvider'
 
 include 'com.kazvictor.configprovider'
+include 'com.kazvictor.example'
